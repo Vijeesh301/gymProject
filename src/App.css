@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.container-body {
+  background-image: url(./components/Homepage/images/Fitness-Quotes.jpg);
+  /* background-image: url(./components/Homepage/images/pexels-leon-ardho-1552252.jpg); */
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  /* background-attachment: fixed; */
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
